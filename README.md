@@ -1,6 +1,9 @@
 # DSA4262-Newgenes 
 ## 1. README.md (general)
-  a. Folder structure \n
+  a. Folder structure
+  'model/': Contains final model (Neural Network)
+  'archive/': Contains previous models tested but not used as the final model
+  
   b. Software requirements \n 
   c. Setting up \n 
     i. Machine setup \n
