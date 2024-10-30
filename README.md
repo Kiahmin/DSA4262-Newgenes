@@ -16,7 +16,6 @@ This repository contains the codes that are created by Team Newgenes for the pur
 ## Folder Structure
 
 ```
-.
 ├── archive/
 │   ├── 
 │   ├── 
