@@ -20,7 +20,7 @@ input_data = torch.tensor(X_test.values, dtype=torch.float32)
 # Load the model
 print("Loading model...")
 model = NeuralNetwork()
-model.load_state_dict(torch.load('../model/model_checkpoint.pth', weights_only=True))
+model.load_state_dict(torch.load('../data/model_checkpoint.pth', weights_only=True))
 
 # Make predictions
 print("Making predictions...")
