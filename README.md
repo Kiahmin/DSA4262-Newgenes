@@ -16,15 +16,15 @@ This repository contains the codes that are created by Team Newgenes for the pur
 ## Folder Structure
 
 ```
-├── archive/
-│   ├── 
+├── archive
+│   ├──
 │   ├── 
 │   ├── random_forest
 │   └── SVM  
-├── data/
+├── data
 │   ├── 
 │   └── 
-├── model/
+├── model
 └── requirements.txt
 ```
 * `archive` - Contains all the previous codes / models that were previously tested.
