@@ -13,9 +13,8 @@
 
 ## Setup for Model Testing
 
-1. Clone this repository:
+1. Navigate to directory:
    ```bash
-   git clone https://github.com/Kiahmin/DSA4262-Newgenes.git
    cd DSA4262-Newgenes/model/test
 
 2. Generate predictions:
