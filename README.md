@@ -17,18 +17,15 @@ This repository contains the codes that are created by Team Newgenes for the pur
 
 ```
 ├── archive
-│   ├──
-│   ├── 
-│   ├── random_forest
-│   └── SVM  
-├── data
-│   ├── 
-│   └── 
+    ├── EDA
+│   ├── LogisticRegression
+│   ├── SVM_model 
+│   ├── knn
+│   └── random_forest
 ├── model
 └── requirements.txt
 ```
 * `archive` - Contains all the previous codes / models that were previously tested.
-*  `data` - Contains sample data file
 *  `model` - Contains the final model and this should be used for testing the training and prediction process. 
 *  `requirements.txt` - Contains the necessary Python libraries that must be installed on the machine for the model to function properly.
 
