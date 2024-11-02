@@ -5,7 +5,7 @@ start_time = time.time()
 
 # read in data
 print("Reading in data...")
-dataset = "../data/dataset2.json.gz"
+dataset = "../data/sample_testset.json.gz"
 
 # Preprocess the data
 print("Preprocessing data...")
