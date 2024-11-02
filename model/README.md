@@ -31,6 +31,6 @@
    python main.py
 
 ## Requirements
-Refer <a href="./requirements.txt/" target="_blank">here</a>
+Refer <a href="../requirements.txt/" target="_blank">here</a>
 
 
