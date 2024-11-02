@@ -51,7 +51,7 @@ Please follow the steps below carefully to ensure the model runs smoothly.
 ```bash
 cd /path/to/your-key-file
 ```
-4. (if any) Set appropriate permissions to ensure security with SSH:
+4. (if any) Set appropriate permissions to ensure security with SSH (if on MacOS or Linux):
 
 ```bash
 chmod 400 your-key-file.pem

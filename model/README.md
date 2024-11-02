@@ -15,7 +15,7 @@
 
 1. Navigate to directory:
    ```bash
-   cd DSA4262-Newgenes/model/test
+   cd model/test
 
 2. Generate predictions:
    ```bash
