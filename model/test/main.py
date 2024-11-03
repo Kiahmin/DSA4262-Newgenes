@@ -32,7 +32,8 @@ with torch.no_grad():
 results = encoded_df[['transcript_id', 'position']].copy()
 results['score'] = predictions
 results.columns = ['transcript_id', 'transcript_position', 'score']
-# results.to_csv('../data/sample_predictions.csv', index=False)
+results.to_csv('../data/sample_predictions.csv', index=False)
+print("Results exported to csv in 'DSA4262-Newgenes/model/data/sample_predictions.csv")
 
 # View the results
 print("############################# Results #############################")
