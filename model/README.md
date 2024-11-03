@@ -30,6 +30,11 @@
    ```bash
    python main.py
 
+3. Check results(optional):
+   ```bash
+   cd ../data
+   cat sample_predictions.csv
+
 ## Requirements
 Refer <a href="../requirements.txt/" target="_blank">here</a>
 
