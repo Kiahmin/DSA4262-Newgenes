@@ -23,7 +23,7 @@
   - `function`: Contains custom functions for model training and evaluation.
   - `main`: The main script to run and test the model.
 
-- *`data`*: Directory with sample data files, including datasets or input files required to run the model.
+- `data`: Directory with sample data files, including datasets or input files required to run the model.
 
 ## Setup for Model Testing
 
