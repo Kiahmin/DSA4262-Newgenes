@@ -16,12 +16,12 @@
 └── data
 ```
 
-- *`train`*: Contains files related to model training.
-  - *`neural_network.ipynb`*: Jupyter notebook with code for training the model and generating plots.
+- `train`: Contains files related to model training.
+  - `neural_network`: Jupyter notebook with code for training the model and generating plots.
 
-- *`test`*: Contains scripts for testing and evaluation.
-  - *`function.py`*: Contains custom functions for model training and evaluation.
-  - *`main.py`*: The main script to run and test the model.
+- `test`: Contains scripts for testing and evaluation.
+  - `function`: Contains custom functions for model training and evaluation.
+  - `main`: The main script to run and test the model.
 
 - *`data`*: Directory with sample data files, including datasets or input files required to run the model.
 
@@ -42,5 +42,3 @@
 
 ## Requirements
 Refer <a href="../requirements.txt/" target="_blank">here</a>
-
-
