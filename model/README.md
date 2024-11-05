@@ -1,10 +1,15 @@
 # Neural Network Model
+## Table of Content: 
 
+- [Folder Structure](#folder-structure)
+- [Setup for Model Testing](#setup-for-model-testing)
+- [Requirements](#requirements)
+  
 ## Folder Structure 
 
 ```
 ├── train
-    ├── neural_network
+│   ├── neural_network
 ├── test
 │   ├── function 
 │   ├── main
