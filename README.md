@@ -17,10 +17,12 @@ This repository contains the codes that are created by Team Newgenes for the pur
 
 ```
 ├── archive
-    ├── EDA
+│   ├── EDA
 │   ├── LogisticRegression
-│   ├── SVM_model 
+│   ├── SVM_model
+│   ├── data_parsing
 │   ├── knn
+│   ├── pipeline
 │   └── random_forest
 ├── model
 └── requirements.txt
