@@ -28,7 +28,7 @@
 
 2. Generate predictions:
    ```bash
-   python main.py
+   python3 main.py
 
 3. Check results(optional):
    ```bash
